@@ -1,0 +1,11 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h2 {
+    font-weight: 600;
+}
+
+footer {
+    border-top: 1px solid #ccc;
+}
